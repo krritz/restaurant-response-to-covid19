@@ -21,6 +21,6 @@ Using the business IDs I gathered using the API, I used BeautifulSoup to scrape 
 ## Restaurant Sentiment Analysis Around COVID-19
 The notebook for the sentiment analysis can be found here.
 
-_Note: plotly figures do not seem to be rendering using the github viewer for Jupyter Notebooks, even if you use nbviewer or view the html conversion of the notebook. I've uploaded htmls of the plotly figures into a seperate folder - you can download them there. I found the (annoying) easiest way to do this was to download the file as a .txt file and then manually delete the .txt extension, but if anyone knows a better way to do this, I'm all ears._ 
+_Note: plotly figures do not seem to be rendering using the github viewer for Jupyter Notebooks, even if you use nbviewer or view the html conversion of the notebook. I've uploaded htmls of the plotly figures into a seperate folder and compressed it - download that folder to view the interactive figures if you aren't downloading and running the notebook._ 
 
 
