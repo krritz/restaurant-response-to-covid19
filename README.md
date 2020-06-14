@@ -60,7 +60,7 @@ Future directions include rescraping Yelp for more recent data - the current dat
 _Note: plotly figures do not seem to be rendering consistently using the github viewer for Jupyter Notebooks, even if you use nbviewer or view the html conversion of the notebook. I've uploaded htmls of the plotly figures [into a seperate folder](plotly_figures.zip) and compressed it - you can download that folder to view the interactive figures if you aren't downloading and running the notebook._ 
 
 ***
-<a href="#Modeling-of-Reviews">[1]</a> It's just a coincidence both reviews are from the same county. I've included a plot in the notebook to show that the reviews for that cluster come from a representative distribution of counties, most of which are actually from L.A. (~17% of reviews).
+\[1] It's just a coincidence both reviews are from the same county. I've included a plot in the notebook to show that the reviews for that cluster come from a representative distribution of counties, most of which are actually from L.A. (~17% of reviews).
 
 
 
