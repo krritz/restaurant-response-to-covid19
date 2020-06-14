@@ -42,6 +42,8 @@ Next, I generated a TF-IDF model from the reviews to extract the relative import
 
 Finally, I searched the clusters for the maximum TI-IDF values for coronavirus-like terms (i.e., "covid", "coronavirus", "corona", "covid-19", "virus", "pandemic", and "quarantine") and found they all grouped together, along with terms like "order", "time", "delivery", "support", "takeout", "service", and even "online". I revisited the sentiment analysis and determined that the sentiment of reviews within this cluster was significantly lower than the sentiment of the whole group and of other clusters, which might explain the decrease in overall sentiment after March 15, 2020 and indicates decreased sentiment in reviews addressing COVID-19. 
 
+![Cornavirus-like Terms](covid_wordcloud.png)
+
 An example of text from a negative review in this cluster:
 >"I am an essential worker on the frontlines fighting corona so before you say it's hard on everyone blah blah I am there and way deeper into this than sitting in. Restaurant making mistakes that CAN and SHOULD be avoided to protect lives. This is not joke, not a game and these things can not happen while hundreds are losing their lives a day in this area, fix it or close down until after this is over so you can go back to screwing up orders, not now."  
 &mdash;The Cheesecake Factory in Passaic, New Jersey
