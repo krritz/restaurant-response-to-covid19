@@ -55,7 +55,7 @@ Of note, many of the positive reviews in this cluster also mention health-relate
 ## Conclusions and Future Directions
 Overall, there is a siginificant decrease in sentiment in recent months, and reviews associated with COVID-19-like terms have significantly worse sentiment than reviews not associated with the pandemic or prior to the outbreak in the U.S. New York City, the center of the outbreak in the U.S., notably had a significant decrease overall after lockdown to further support the conclusion that COVID-19 has negatively impacted public sentiment towards restaurants, despite carry-out options.
 
-Future directions include rescraping Yelp for more recent data - the current dataset was scraped in mid-April and does not span more recent weeks. Additionally, I encountered computational limitations to running the KMeans clustering on all available reviews, so using cloud-based resources
+Future directions include rescraping Yelp for more recent data - the current dataset was scraped in mid-April and does not span more recent weeks. Additionally, I encountered computational limitations to running the KMeans clustering on all available reviews, so using cloud-based resources would be a good next step to include all available data.
 ***
 _Note: plotly figures do not seem to be rendering consistently using the github viewer for Jupyter Notebooks, even if you use nbviewer or view the html conversion of the notebook. I've uploaded htmls of the plotly figures [into a seperate folder](plotly_figures.zip) and compressed it - you can download that folder to view the interactive figures if you aren't downloading and running the notebook._ 
 
