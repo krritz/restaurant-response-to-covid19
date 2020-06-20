@@ -13,6 +13,7 @@ To gather data for this analysis, I scrape Yelp reviews for 200 restaurants in e
     2b. [Sentiment Analysis](#Sentiment-Analysis)  
     2c. [Modeling of Reviews](#Modeling-of-Reviews)  
 
+See [the presentation slides](covid_19_restaurant_present.pdf) for a condensed summary of take-homes.
 ***
 ## [Yelp Scraping](yelp-scraping.ipynb)
 The notebook for scraping Yelp can be found [here](yelp-scraping.ipynb). 
